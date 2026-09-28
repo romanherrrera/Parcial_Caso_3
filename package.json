@@ -1,0 +1,9 @@
+{
+  "name": "festival-raices-vivas",
+  "version": "1.0.0",
+  "description": "Landing page académica para el parcial de Diseño Multimedia.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
